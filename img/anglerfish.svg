@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="135"
+   viewBox="0 0 200 135"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="anglerfish.svg">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard 3</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1537"
+     inkscape:window-height="876"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="3.3941125"
+     inkscape:cx="169.07237"
+     inkscape:cy="56.278483"
+     inkscape:window-x="63"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Artboard-3" />
+  <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">Artboard 3</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="Welcome"
+     sketch:type="MSPage"
+     style="fill:none;stroke:none"
+     transform="translate(0,-15)">
+    <g
+       id="Artboard-3"
+       sketch:type="MSArtboardGroup"
+       style="fill:#4a4a4a">
+      <g
+         id="Group-2"
+         sketch:type="MSLayerGroup"
+         transform="matrix(1.4632181,0,0,1.4632181,-0.33608912,36.772317)">
+        <path
+           d="m 82.006597,1.1828388 47.116183,0 7.87722,0 0,12.7987172 -7.87722,0 -43.240178,0 0,-0.330785 c 0,-5.1408616 -1.478791,-9.3747674 -3.876005,-12.4679322 z"
+           id="Line"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 66.934023,47.25822 3.365839,0 0,-12.798717 -3.365839,0 -7.068261,0 -3.365839,0 0,12.798717 3.365839,0 7.068261,0 z"
+           id="path14"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 104.49753,47.684844 6.3427,0 0,-12.798717 -6.3427,0 -12.530694,0 -6.3427,0 0,12.798717 6.3427,0 12.530694,0 z"
+           id="path16"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 68.239525,16.709255 0,60.493114 12.685398,0 0,-64.293219 c 0,-5.4538894 -1.889293,-9.9217419 -6.323034,-11.7724518 C 70.169052,-0.71363436 65.70361,1.1003793 61.88349,4.9584395 L 0.30057234,67.152984 9.2749401,76.198565 68.239525,16.709255 z"
+           id="Path-1"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
