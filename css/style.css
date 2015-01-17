@@ -140,46 +140,5 @@ body #portfolio article .project-page p {
   font-size: 12pt;
   font-family: 'Open Sans', sans-serif;
 }
-body footer {
-  position: absolute;
-  bottom: 5px;
-  right: 5px;
-  text-align: right;
-}
-@media (max-width: 480px) {
-  body footer {
-    position: static;
-    bottom: 0px;
-    right: 0px;
-    width: 235px;
-    float: right;
-  }
-}
-body footer #copyright {
-  position: relative;
-  overflow: visible;
-  color: white;
-  font-size: 15px;
-}
-body footer #copyright #copyright-info {
-  opacity: 0;
-  position: relative;
-  padding: 2px;
-  margin-right: 5px;
-  color: #fff;
-  background: #000;
-  text-decoration: none;
-  -webkit-transition: opacity 0.5s;
-  -moz-transition: opacity 0.5s;
-  -o-transition: opacity 0.5s;
-  -ms-transition: opacity 0.5s;
-  transition: opacity 0.5s;
-}
-body footer #copyright #copyright-info a {
-  color: #abc;
-}
-body footer #copyright:hover #copyright-info {
-  opacity: 0.8;
-}
 
 /*# sourceMappingURL=style.css.map */
